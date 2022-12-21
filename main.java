@@ -8,8 +8,8 @@ public class main {
 
 
 
-        
-        System.out.println("ggg");
+
+        System.out.println("ggggggg");
         
 
        
